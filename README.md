@@ -49,7 +49,9 @@ To solidify your learning, we have included several projects you can work on:
 
 Happy Coding!
 
+
 Maryjane Chukelu 
+
 [GitHub Profile](https://github.com/maryjanechukelu)  
 [Twitter Handle](https://twitter.com/maryjanechukelu)
 
