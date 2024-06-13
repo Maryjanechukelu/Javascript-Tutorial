@@ -100,6 +100,6 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 Happy Coding!
 
 Your Name  
-[GitHub Profile](https://github.com/yourusername)  
-[Twitter Handle](https://twitter.com/yourhandle)
+[GitHub Profile](https://github.com/maryjanechukelu)  
+[Twitter Handle](https://twitter.com/maryjanechukelu)
 
